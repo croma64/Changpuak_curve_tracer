@@ -1,0 +1,7 @@
+[Oo]bj/
+[Tt]emp/
+*.user
+*.suo
+.vs/
+__pycache__/
+*.py[cod]
